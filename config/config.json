@@ -1,5 +1,6 @@
 {
     "hash-method": "sha265",
     "method":"asymetric",
-    "rsakey-length": "512"
+    "rsakey-length": 512,
+    "mode": "input"
 }
