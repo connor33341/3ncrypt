@@ -1,0 +1,5 @@
+{
+    "hash-method": "sha265",
+    "method":"asymetric",
+    "rsakey-length": "512"
+}
